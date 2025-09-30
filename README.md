@@ -56,48 +56,32 @@ The following lyrics summarize Todd's feelings on the matter. These lyrics are s
 > But it’s not too late to apologize, not too late,  
 > No, it’s not too late to apologize, not too late.  
 > Not too late, oh—
-
-**Verse 1**
-I’m buried in the deadlines,
-Running circles in my mind.
-Yeah, I saw your message waiting,
-But I left your words behind.
-
-You said this was urgent,
-That the moment mattered most—
-I meant to reach you sooner,
-Didn’t want to leave you lost.
-
-**Chorus**
-But it’s not too late to apologize, not too late,
-No, it’s not too late to apologize, not too late.
-Not too late, oh—
-
-**Verse 2**
-I’d put aside the noise, the calls,
-Just to write to you.
-I need to prove I still care,
-Though my answer’s overdue.
-
-I should’ve dropped it all before, replied without delay.
-You were patient like an angel,
-Waiting while I strayed away.
-So let me say—
-
-**Chorus**
-It’s not too late to apologize, not too late,
-I swear it’s not too late to apologize, not too late.
-Not too late, whoa—
-
-**Bridge**
-Now I’m staring at your mail,
-I won’t let you down again.
-These words might come in late,
-But they’re honest, every line I send.
-
-**Final Chorus**
-It’s not too late to apologize, not too late,
-I said it’s not too late to apologize, not too late.
-Not too late—yeah—
-It’s not too late to apologize, not too late.
+>   
+> **Verse 2**  
+> I’d put aside the noise, the calls,  
+> Just to write to you.  
+> I need to prove I still care,  
+> Though my answer’s overdue.  
+>   
+> I should’ve dropped it all before, replied without delay.  
+> You were patient like an angel,  
+> Waiting while I strayed away.  
+> So let me say—  
+>   
+> **Chorus**  
+> It’s not too late to apologize, not too late,  
+> I swear it’s not too late to apologize, not too late.  
+> Not too late, whoa—  
+>   
+> **Bridge**  
+> Now I’m staring at your mail,  
+> I won’t let you down again.  
+> These words might come in late,  
+> But they’re honest, every line I send.  
+>   
+> **Final Chorus**  
+> It’s not too late to apologize, not too late,  
+> I said it’s not too late to apologize, not too late.  
+> Not too late—yeah—  
+> It’s not too late to apologize, not too late.  
 
