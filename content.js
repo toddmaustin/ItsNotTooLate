@@ -39,7 +39,7 @@ function randChoice(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
 
 function getRandomApology() {
   const template = randChoice(templates);
-  if (template.includes("{adj}") {
+  if (template.includes("{adj}")) {
     const adj = randChoice(adjectives;
     return template.replace("{adj}", adj);
   }
