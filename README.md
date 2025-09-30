@@ -41,22 +41,38 @@ This extension was made by Todd Austin @ University of Michigan. He is slow to a
 
 The following lyrics summarize Todd's feelings on the matter. These lyrics are submitted for your approval and with apologies to OneRepublic:
 
-> **Verse 1**
-> I’m buried in the deadlines,
-> Running circles in my mind.
-> Yeah, I saw your message waiting,
-> But I left your words behind.
-> 
-> You said this was urgent,
-> That the moment mattered most—
-> I meant to reach you sooner,
-> Didn’t want to leave you lost.
-> 
-> **Chorus**
-> But it’s not too late to apologize, not too late,
-> No, it’s not too late to apologize, not too late.
+> **Verse 1**  
+> I’m buried in the deadlines,  
+> Running circles in my mind.  
+> Yeah, I saw your message waiting,  
+> But I left your words behind.  
+>   
+> You said this was urgent,  
+> That the moment mattered most—  
+> I meant to reach you sooner,  
+> Didn’t want to leave you lost.  
+>   
+> **Chorus**  
+> But it’s not too late to apologize, not too late,  
+> No, it’s not too late to apologize, not too late.  
 > Not too late, oh—
-> 
+
+**Verse 1**
+I’m buried in the deadlines,
+Running circles in my mind.
+Yeah, I saw your message waiting,
+But I left your words behind.
+
+You said this was urgent,
+That the moment mattered most—
+I meant to reach you sooner,
+Didn’t want to leave you lost.
+
+**Chorus**
+But it’s not too late to apologize, not too late,
+No, it’s not too late to apologize, not too late.
+Not too late, oh—
+
 **Verse 2**
 I’d put aside the noise, the calls,
 Just to write to you.
