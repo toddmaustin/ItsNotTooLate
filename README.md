@@ -19,7 +19,7 @@ All apologies are drawn from 30 hand-crafted templates, parameterized with adjec
 1. Save `manifest.json`, `content.js`, and `README.md` into a folder, e.g. `gmail-apology-extension/`.
 2. In Chrome, open `chrome://extensions/` and enable **Developer mode** (top-right toggle).  
 3. Click **Load unpacked** and select the `gmail-apology-extension/` folder.  
-4. Open Gmail in a new tab. You’ll see a small floating panel in the bottom-right corner.
+4. Open Gmail in a new tab. You’ll see a small floating panel in the bottom-right corner. If you don't see the buttons right away, try refreshing the Gmail browser tab.
 
 ## Usage
 
