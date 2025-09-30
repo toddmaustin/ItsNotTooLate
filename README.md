@@ -35,7 +35,7 @@ If Gmail is very busy or slow, the insertion can take up to a second as the edit
 - The panel sits on top of Gmail; you can move it by editing the `bottom`/`right` values in `content.js`.  
 - The extension only modifies Gmail’s DOM locally in your browser and does not transmit any email contents.  
 
-## How made this extension, and why?
+## Who made this extension, and why?
 
 This extension was made by Todd Austin @ University of Michigan. He is slow to answer email, so he wrote this tool to more quickly apologize.
 
