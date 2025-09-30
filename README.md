@@ -37,9 +37,7 @@ If Gmail is very busy or slow, the insertion can take up to a second as the edit
 
 ## Who made this extension, and why?
 
-This extension was made by Todd Austin @ University of Michigan. He is slow to answer email, so he wrote this tool to more quickly apologize.
-
-The following lyrics summarize Todd's feelings on the matter. These lyrics are submitted for your approval and with apologies to OneRepublic:
+This extension was made by Todd Austin @ University of Michigan. He is slow to answer email, so he wrote this tool to more quickly apologize. The following lyrics summarize Todd's feelings on the matter. These lyrics are submitted for your approval and with apologies to OneRepublic:
 
 > **Verse 1**  
 > I’m buried in the deadlines,  
